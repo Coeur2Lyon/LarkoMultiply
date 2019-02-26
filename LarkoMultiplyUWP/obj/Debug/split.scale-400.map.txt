@@ -1,0 +1,22 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.scale-400"
+"ResourceDimensions"		"scale-400"
+
+[Files]
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\split.scale-400.pri"			"resources.pri"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Wide310x150Logo.scale-400.png"			"Wide310x150Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\StoreLogo.scale-400.png"			"StoreLogo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Square71x71Logo.scale-400.png"			"Square71x71Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Square44x44Logo.scale-400.png"			"Square44x44Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Square310x310Logo.scale-400.png"			"Square310x310Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Square150x150Logo.scale-400.png"			"Square150x150Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\SplashScreen.scale-400.png"			"SplashScreen.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\Wide310x150Logo.scale-400.png"			"Images\Wide310x150Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\StoreLogo.scale-400.png"			"Images\StoreLogo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\Square44x44Logo.scale-400.png"			"Images\Square44x44Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\Square150x150Logo.scale-400.png"			"Images\Square150x150Logo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\SplashScreen.scale-400.png"			"Images\SplashScreen.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\SmallTile.scale-400.png"			"Images\SmallTile.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\LargeTile.scale-400.png"			"Images\LargeTile.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\Images\BadgeLogo.scale-400.png"			"Images\BadgeLogo.scale-400.png"
+"C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\PackageLayout\BadgeLogo.scale-400.png"			"BadgeLogo.scale-400.png"

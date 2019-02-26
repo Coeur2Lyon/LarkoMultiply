@@ -23,6 +23,14 @@ namespace LarkoMultiply
     public partial class FenetreJeu : Window
     {
         private Jeu jeu;
+        private TextBlock txtResultat1;
+        private TextBlock txtResultat2;
+        private TextBlock txtResultat3;
+
+        public TextBlock TxtResultat1 { get => txtResultat1; set => txtResultat1 = value; }
+        public TextBlock TxtResultat2 { get => txtResultat2; set => txtResultat2 = value; }
+        public TextBlock TxtResultat3 { get => txtResultat3; set => txtResultat3 = value; }
+
         public FenetreJeu()
         {
             InitializeComponent();
@@ -95,19 +103,19 @@ namespace LarkoMultiply
             switch (jeu.Etatpersonnage.etat)
             {
                 case 1://Bas
-                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/personnage_Bas.png", UriKind.Relative)));
+                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/larko_haut.png", UriKind.Relative)));
                     break;
 
                 case 2://Haut
-                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/personnage_Haut.png", UriKind.Relative)));
+                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/larko_haut.png", UriKind.Relative)));
                     break;
 
                 case 3://Droite
-                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/personnage_Droite.png", UriKind.Relative)));
+                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/larko_droite.png", UriKind.Relative)));
                     break;
 
                 case 4://Gauche
-                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/personnage_Gauche.png", UriKind.Relative)));
+                    r.Fill = new ImageBrush(new BitmapImage(new Uri("images/larko_gauche.png", UriKind.Relative)));
                     break;
             }
 
@@ -118,29 +126,31 @@ namespace LarkoMultiply
         private void DessinerCasesResultats()
         {
             cnv_resultats.Children.Clear();
-            TextBlock txtResutat1 = new TextBlock();
+            TxtResultat1 = new TextBlock();
             // ICI il y aura le CODE pour stocker un aléatoire int à la place de ?? en convertissant en str
             Random aleatoire = new Random();
             int multipl1a = aleatoire.Next(1, 10);
             int multipl1b = aleatoire.Next(1, 10);//Génère un entier compris entre 0 et 9
             int resultat1a = multipl1a * multipl1b;
             string resultat1 = resultat1a.ToString();
-            txtResutat1.FontFamily = new FontFamily("Showard Gothic");
-            txtResutat1.Text = resultat1;
+            TxtResultat1.FontFamily = new FontFamily("Showcard Gothic");
+            TxtResultat1.Text = resultat1;
             txtChiffre1.Text = multipl1a.ToString();
             txtChiffre2.Text = multipl1b.ToString();
 
             //txtResutat1.Inlines.Add("");
-            txtResutat1.Margin = new Thickness(jeu.CaseResultat1.y * 50, jeu.CaseResultat1.x * 50, 0, 0);
-            txtResutat1.Height = 50;
-            txtResutat1.FontSize = 40;
-            txtResutat1.Foreground = Brushes.Blue;
-            txtResutat1.Width = 50;
-            txtResutat1.TextAlignment = TextAlignment.Center;
-            txtResutat1.Visibility = Visibility.Visible;
-            cnv_resultats.Children.Add(txtResutat1);
 
-            TextBlock txtResutat2 = new TextBlock();
+            TxtResultat1.Margin = new Thickness(jeu.CaseResultat1.y * 50, jeu.CaseResultat1.x * 50, 0, 0);
+            TxtResultat1.Height = 50;
+            TxtResultat1.FontSize = 40;
+            TxtResultat1.Foreground = Brushes.Blue;
+            TxtResultat1.Width = 50;
+            TxtResultat1.TextAlignment = TextAlignment.Center;
+            TxtResultat1.Visibility = Visibility.Visible;
+            cnv_resultats.Children.Add(txtResultat1);
+
+
+
 
             int multipl2a = aleatoire.Next(1, 10);
             int multipl2b = aleatoire.Next(1, 10);//Génère un entier compris entre 0 et 9
@@ -152,19 +162,21 @@ namespace LarkoMultiply
                 resultat2a = multipl2a * multipl2b;
             }
             string resultat2 = resultat2a.ToString();
-            txtResutat2.Text = resultat2;
-            //txtResutat2.Inlines.Add(resultat2);
-            txtResutat2.Margin = new Thickness(jeu.CaseResultat2.y * 50, jeu.CaseResultat2.x * 50, 0, 0);
-            txtResutat2.Height = 50;
-            txtResutat2.FontSize = 40;
-            txtResutat2.FontFamily = new FontFamily("Showard Gothic");
-            txtResutat2.Foreground = Brushes.Blue;
-            txtResutat2.Width = 50;
-            txtResutat2.TextAlignment = TextAlignment.Center;
-            txtResutat2.Visibility = Visibility.Visible;
-            cnv_resultats.Children.Add(txtResutat2);
 
-            TextBlock txtResutat3 = new TextBlock();
+            TxtResultat2 = new TextBlock();
+            TxtResultat2.Text = resultat2;
+            //txtResutat2.Inlines.Add(resultat2);
+            TxtResultat2.Margin = new Thickness(jeu.CaseResultat2.y * 50, jeu.CaseResultat2.x * 50, 0, 0);
+            TxtResultat2.Height = 50;
+            TxtResultat2.FontSize = 40;
+            TxtResultat2.FontFamily = new FontFamily("Showcard Gothic");
+            TxtResultat2.Foreground = Brushes.Blue;
+            TxtResultat2.Width = 50;
+            TxtResultat2.TextAlignment = TextAlignment.Center;
+            TxtResultat2.Visibility = Visibility.Visible;
+            cnv_resultats.Children.Add(TxtResultat2);
+
+            TxtResultat3 = new TextBlock();
             int multipl3a = aleatoire.Next(1, 10);
             int multipl3b = aleatoire.Next(1, 10);//Génère un entier compris entre 0 et 9
             int resultat3a = multipl3a * multipl3b;
@@ -175,16 +187,16 @@ namespace LarkoMultiply
                 resultat3a = multipl3a * multipl3b;
             }
             string resultat3 = resultat3a.ToString();
-            txtResutat3.Text = resultat3;
-            txtResutat3.Margin = new Thickness(jeu.CaseResultat3.y * 50, jeu.CaseResultat3.x * 50, 0, 0);
-            txtResutat3.Height = 50;
-            txtResutat3.FontSize = 40;
-            txtResutat3.FontFamily = new FontFamily("Showard Gothic");
-            txtResutat3.Foreground = Brushes.Blue;
-            txtResutat3.Width = 50;
-            txtResutat3.TextAlignment = TextAlignment.Center;
-            txtResutat3.Visibility = Visibility.Visible;
-            cnv_resultats.Children.Add(txtResutat3);
+            TxtResultat3.Text = resultat3;
+            TxtResultat3.Margin = new Thickness(jeu.CaseResultat3.y * 50, jeu.CaseResultat3.x * 50, 0, 0);
+            TxtResultat3.Height = 50;
+            TxtResultat3.FontSize = 40;
+            TxtResultat3.FontFamily = new FontFamily("Showcard Gothic");
+            TxtResultat3.Foreground = Brushes.Blue;
+            TxtResultat3.Width = 50;
+            TxtResultat3.TextAlignment = TextAlignment.Center;
+            TxtResultat3.Visibility = Visibility.Visible;
+            cnv_resultats.Children.Add(TxtResultat3);
 
 
         }
@@ -200,8 +212,9 @@ namespace LarkoMultiply
             {
                 //int result1= int.Parse(txtChiffre1.Text) * int.Parse(txtChiffre2.Text);
                 //string resutstring1 = result1.ToString();
-
-                txtResultat.Text = (int.Parse(txtChiffre1.Text) * int.Parse(txtChiffre2.Text)).ToString(); //Voir cahier 28-01-2019
+                txtResultat.Text = TxtResultat1.Text; //Voir cahier 28-01-2019
+                txtResultat.Foreground = Brushes.BlanchedAlmond;
+                TxtResultat1.Background = Brushes.SpringGreen;
                 txtResultat.Foreground = Brushes.SpringGreen;
                 txtVraiFaux.Text = "VRAI";
                 txtVraiFaux.Background = Brushes.SpringGreen;
@@ -211,22 +224,26 @@ namespace LarkoMultiply
 
             else if (test_superpose2)
             {
-                txtResultat.Text = (int.Parse(txtChiffre2.Text) * int.Parse(txtChiffre2.Text)).ToString(); //Voir cahier 28-01-2019
+                txtResultat.Text = TxtResultat2.Text; //Voir cahier 28-01-2019
                 txtResultat.Foreground = Brushes.Red;
+                TxtResultat2.Background = Brushes.Red;
+                TxtResultat2.Foreground = Brushes.BlanchedAlmond;
                 txtVraiFaux.Text = "FAUX";
                 txtVraiFaux.Background = Brushes.Red;
                 txtVraiFaux.Foreground = Brushes.BlanchedAlmond;
-                MessageErreurCase();
+                //MessageErreurCase();
 
             }
             else if (test_superpose3)
             {
-                txtResultat.Text = (int.Parse(txtChiffre1.Text) * int.Parse(txtChiffre2.Text)).ToString(); //Voir cahier 28-01-2019
+                txtResultat.Text = TxtResultat3.Text;
                 txtResultat.Foreground = Brushes.Red;
                 txtVraiFaux.Text = "FAUX";
+                TxtResultat3.Background = Brushes.Red;
+                TxtResultat3.Foreground = Brushes.BlanchedAlmond;
                 txtVraiFaux.Background = Brushes.Red;
                 txtVraiFaux.Foreground = Brushes.BlanchedAlmond;
-                MessageErreurCase();
+                //MessageErreurCase();
 
             }
             else
@@ -239,7 +256,7 @@ namespace LarkoMultiply
             }
         }
 
-        private void MessageErreurCase()
+        /*private void MessageErreurCase()
         {
             Random aleatoire = new Random();
             int messageNum1 = aleatoire.Next(1, 5);
@@ -262,7 +279,7 @@ namespace LarkoMultiply
                     break;
             }
 
-        }
+        }*/
 
         private void Bouton_AutreCalcul_Click(object sender, RoutedEventArgs e)
         {
@@ -272,6 +289,8 @@ namespace LarkoMultiply
         }
     }
 }
+
+
 
 
 

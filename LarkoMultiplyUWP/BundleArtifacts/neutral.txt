@@ -1,0 +1,6 @@
+MainPackage=C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiplyUWP_2.0.2.0_AnyCPU_Debug.appx
+SymbolPackage=C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\AppPackages\LarkoMultiplyUWP_2.0.2.0_Debug_Test\LarkoMultiplyUWP_2.0.2.0_AnyCPU_Debug.appxsym
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiplyUWP_2.0.2.0_scale-100.appx
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiplyUWP_2.0.2.0_scale-125.appx
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiplyUWP_2.0.2.0_scale-150.appx
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiplyUWP_2.0.2.0_scale-400.appx

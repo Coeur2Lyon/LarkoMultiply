@@ -30,3 +30,20 @@ C:\Users\vince\source\repos\LarkoMultiply_Beta\WpfApp5\obj\Debug\WpfApp5.pdb
 C:\Users\vince\source\repos\LarkoMultiply_Beta\WpfApp5\obj\Debug\FenetreJeu.g.cs
 C:\Users\vince\source\repos\LarkoMultiply_Beta\WpfApp5\obj\Debug\FenetreJeu.baml
 C:\Users\vince\source\repos\LarkoMultiply_Beta\WpfApp5\obj\Debug\LarkoMultiply.csprojAssemblyReference.cache
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\bin\Debug\WpfApp5.exe.config
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\bin\Debug\WpfApp5.exe
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\bin\Debug\WpfApp5.pdb
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\MainWindow.g.cs
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\FenetreJeu.g.cs
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\App.g.cs
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.cache
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\WpfApp5_MarkupCompile.lref
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\MainWindow.baml
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\FenetreJeu.baml
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\WpfApp5.g.resources
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\WpfApp5.Properties.Resources.resources
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\LarkoMultiply.csproj.GenerateResource.cache
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\LarkoMultiply.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\WpfApp5.exe
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\WpfApp5.pdb
+C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\WpfApp5\obj\Debug\LarkoMultiply.csprojAssemblyReference.cache

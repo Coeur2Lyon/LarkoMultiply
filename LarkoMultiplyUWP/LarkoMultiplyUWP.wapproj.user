@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</Source>
+    <SplashScreenSource>C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\SplashScreen.png</SplashScreenSource>
+    <AppxPackageIsForStore>False</AppxPackageIsForStore>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <SmallTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</SmallTileSource>
+    <MediumTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</MediumTileSource>
+    <WideTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</WideTileSource>
+    <LargeTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</LargeTileSource>
+    <AppIconSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</AppIconSource>
+    <PackageLogoSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</PackageLogoSource>
+    <BadgeLogoSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</BadgeLogoSource>
+  </PropertyGroup>
+</Project>

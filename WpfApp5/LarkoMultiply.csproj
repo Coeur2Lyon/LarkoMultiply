@@ -105,15 +105,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Resource Include="images\caisse.png" />
-    <Resource Include="images\caisse_placee.png" />
-    <Resource Include="images\cible.png" />
+    <Resource Include="images\larko_droite.png" />
+    <Resource Include="images\larko_gauche.png" />
+    <Resource Include="images\larko_haut.png" />
     <Resource Include="images\mur.png" />
-    <Resource Include="images\personnage.png" />
-    <Resource Include="images\Personnage_Bas.png" />
-    <Resource Include="images\Personnage_Droite.png" />
-    <Resource Include="images\Personnage_Gauche.png" />
-    <Resource Include="images\Personnage_Haut.png" />
     <Resource Include="images\sol.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
