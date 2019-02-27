@@ -23,3 +23,28 @@ C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\De
 C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
 C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\ProjectArchitectures.txt
 C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\obj\Debug\LarkoMultiplyUWP.wapproj.LastBuild.txt
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\AnyCPU\Debug\resources.pri
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiply\WpfApp5.exe
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiply\WpfApp5.exe.config
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiply\WpfApp5.pdb
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\AnyCPU\Debug\AppxManifest.xml
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\AnyCPU\Debug\LarkoMultiplyUWP.build.appxrecipe
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\LarkoMultiplyUWP.wapprojAssemblyReference.cache
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\LarkoMultiplyUWP.wapproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\priconfig.xml
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\priconfig.xml.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\unfiltered.layout.resfiles
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\filtered.layout.resfiles
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\filtered.layout.resfiles.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\excluded.layout.resfiles
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\excluded.layout.resfiles.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\resources.resfiles
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\resources.resfiles.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\pri.resfiles
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\pri.resfiles.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\qualifiers.txt
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\qualifiers.txt.intermediate
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\ProjectArchitectures.txt
+C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\Debug\LarkoMultiplyUWP.wapproj.LastBuild.txt
