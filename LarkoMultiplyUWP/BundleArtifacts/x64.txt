@@ -1,0 +1,6 @@
+MainPackage=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\LarkoMultiplyUWP_4.0.0.0_x64.appx
+SymbolPackage=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\AppPackages\LarkoMultiplyUWP_4.0.0.0_Test\LarkoMultiplyUWP_4.0.0.0_x64.appxsym
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\LarkoMultiplyUWP_4.0.0.0_scale-100.appx
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\LarkoMultiplyUWP_4.0.0.0_scale-125.appx
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\LarkoMultiplyUWP_4.0.0.0_scale-150.appx
+ResourcePack=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\LarkoMultiplyUWP_4.0.0.0_scale-400.appx

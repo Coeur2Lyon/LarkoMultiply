@@ -5,8 +5,8 @@
     <SplashScreenSource>C:\Users\vince\source\repos\LarkoMultiply_Beta - 2..save\LarkoMultiplyUWP\SplashScreen.png</SplashScreenSource>
     <AppxPackageIsForStore>False</AppxPackageIsForStore>
     <AppxShowAllApps>False</AppxShowAllApps>
-    <AppxBuildConfigurationSelection>neutral</AppxBuildConfigurationSelection>
-    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+    <AppxBuildConfigurationSelection>x86|x64</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>True</PackageOptionalProjectsInIdeBuilds>
     <SmallTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</SmallTileSource>
     <MediumTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</MediumTileSource>
     <WideTileSource>D:\0_GRAPH-CREA\Dessins\Larko\larko_vignette_400.png</WideTileSource>

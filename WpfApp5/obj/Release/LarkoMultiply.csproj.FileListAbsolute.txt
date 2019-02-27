@@ -1,0 +1,16 @@
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\bin\Release\WpfApp5.exe.config
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\bin\Release\WpfApp5.exe
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\bin\Release\WpfApp5.pdb
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\MainWindow.g.cs
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\FenetreJeu.g.cs
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\App.g.cs
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\WpfApp5_MarkupCompile.cache
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\WpfApp5_MarkupCompile.lref
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\MainWindow.baml
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\FenetreJeu.baml
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\WpfApp5.g.resources
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\WpfApp5.Properties.Resources.resources
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\LarkoMultiply.csproj.GenerateResource.cache
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\LarkoMultiply.csproj.CoreCompileInputs.cache
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\WpfApp5.exe
+C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\obj\Release\WpfApp5.pdb

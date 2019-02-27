@@ -1,0 +1,2 @@
+MainPackage=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x86\Release\LarkoMultiplyUWP_4.0.0.0_x86.appx
+SymbolPackage=C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\AppPackages\LarkoMultiplyUWP_4.0.0.0_Test\LarkoMultiplyUWP_4.0.0.0_x86.appxsym

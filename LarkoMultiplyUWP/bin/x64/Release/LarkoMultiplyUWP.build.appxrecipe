@@ -1,0 +1,405 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>ZEUSLAP</Machine>
+    <WindowsUser>vince</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Release|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>LarkoMultiplyInstallPackage</PackageIdentityName>
+    <PackageIdentityPublisher>CN=vince</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\obj\x64\Release\</IntermediateOutputPath>
+    <RemoteDeploymentType></RemoteDeploymentType>
+    <PackageRegistrationPath></PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath></WindowsSdkPath>
+    <LayoutDir>C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\AppX</LayoutDir>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\BadgeLogo.png">
+      <PackagePath>BadgeLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\BadgeLogo.scale-100.png">
+      <PackagePath>BadgeLogo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\BadgeLogo.scale-125.png">
+      <PackagePath>BadgeLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\BadgeLogo.scale-150.png">
+      <PackagePath>BadgeLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\BadgeLogo.scale-200.png">
+      <PackagePath>BadgeLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\BadgeLogo.scale-400.png">
+      <PackagePath>BadgeLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\BadgeLogo.scale-100.png">
+      <PackagePath>Images\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\BadgeLogo.scale-125.png">
+      <PackagePath>Images\BadgeLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\BadgeLogo.scale-150.png">
+      <PackagePath>Images\BadgeLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\BadgeLogo.scale-200.png">
+      <PackagePath>Images\BadgeLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\BadgeLogo.scale-400.png">
+      <PackagePath>Images\BadgeLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\LargeTile.scale-100.png">
+      <PackagePath>Images\LargeTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\LargeTile.scale-125.png">
+      <PackagePath>Images\LargeTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\LargeTile.scale-150.png">
+      <PackagePath>Images\LargeTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\LargeTile.scale-200.png">
+      <PackagePath>Images\LargeTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\LargeTile.scale-400.png">
+      <PackagePath>Images\LargeTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\LockScreenLogo.scale-200.png">
+      <PackagePath>Images\LockScreenLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SmallTile.scale-100.png">
+      <PackagePath>Images\SmallTile.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SmallTile.scale-125.png">
+      <PackagePath>Images\SmallTile.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SmallTile.scale-150.png">
+      <PackagePath>Images\SmallTile.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SmallTile.scale-200.png">
+      <PackagePath>Images\SmallTile.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SmallTile.scale-400.png">
+      <PackagePath>Images\SmallTile.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SplashScreen.scale-100.png">
+      <PackagePath>Images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SplashScreen.scale-125.png">
+      <PackagePath>Images\SplashScreen.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SplashScreen.scale-150.png">
+      <PackagePath>Images\SplashScreen.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SplashScreen.scale-200.png">
+      <PackagePath>Images\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\SplashScreen.scale-400.png">
+      <PackagePath>Images\SplashScreen.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square150x150Logo.scale-100.png">
+      <PackagePath>Images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square150x150Logo.scale-125.png">
+      <PackagePath>Images\Square150x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square150x150Logo.scale-150.png">
+      <PackagePath>Images\Square150x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square150x150Logo.scale-200.png">
+      <PackagePath>Images\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square150x150Logo.scale-400.png">
+      <PackagePath>Images\Square150x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.altform-unplated_targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.altform-unplated_targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.altform-unplated_targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.altform-unplated_targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.altform-unplated_targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.scale-100.png">
+      <PackagePath>Images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.scale-125.png">
+      <PackagePath>Images\Square44x44Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.scale-150.png">
+      <PackagePath>Images\Square44x44Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.scale-200.png">
+      <PackagePath>Images\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.scale-400.png">
+      <PackagePath>Images\Square44x44Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Images\Square44x44Logo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\StoreLogo.scale-100.png">
+      <PackagePath>Images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\StoreLogo.scale-125.png">
+      <PackagePath>Images\StoreLogo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\StoreLogo.scale-150.png">
+      <PackagePath>Images\StoreLogo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\StoreLogo.scale-200.png">
+      <PackagePath>Images\StoreLogo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\StoreLogo.scale-400.png">
+      <PackagePath>Images\StoreLogo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Wide310x150Logo.scale-100.png">
+      <PackagePath>Images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Wide310x150Logo.scale-125.png">
+      <PackagePath>Images\Wide310x150Logo.scale-125.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Wide310x150Logo.scale-150.png">
+      <PackagePath>Images\Wide310x150Logo.scale-150.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Wide310x150Logo.scale-200.png">
+      <PackagePath>Images\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Images\Wide310x150Logo.scale-400.png">
+      <PackagePath>Images\Wide310x150Logo.scale-400.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\SplashScreen.png">
+      <PackagePath>SplashScreen.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\SplashScreen.scale-100.png">
+      <PackagePath>SplashScreen.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\SplashScreen.scale-125.png">
+      <PackagePath>SplashScreen.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\SplashScreen.scale-150.png">
+      <PackagePath>SplashScreen.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\SplashScreen.scale-200.png">
+      <PackagePath>SplashScreen.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\SplashScreen.scale-400.png">
+      <PackagePath>SplashScreen.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square150x150Logo.png">
+      <PackagePath>Square150x150Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square150x150Logo.scale-100.png">
+      <PackagePath>Square150x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square150x150Logo.scale-125.png">
+      <PackagePath>Square150x150Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square150x150Logo.scale-150.png">
+      <PackagePath>Square150x150Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square150x150Logo.scale-400.png">
+      <PackagePath>Square150x150Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square310x310Logo.png">
+      <PackagePath>Square310x310Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square310x310Logo.scale-100.png">
+      <PackagePath>Square310x310Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square310x310Logo.scale-125.png">
+      <PackagePath>Square310x310Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square310x310Logo.scale-150.png">
+      <PackagePath>Square310x310Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square310x310Logo.scale-200.png">
+      <PackagePath>Square310x310Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square310x310Logo.scale-400.png">
+      <PackagePath>Square310x310Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.png">
+      <PackagePath>Square44x44Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.scale-100.png">
+      <PackagePath>Square44x44Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.scale-125.png">
+      <PackagePath>Square44x44Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.scale-150.png">
+      <PackagePath>Square44x44Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.scale-400.png">
+      <PackagePath>Square44x44Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-16.png">
+      <PackagePath>Square44x44Logo.targetsize-16.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-16_altform-unplated.png">
+      <PackagePath>Square44x44Logo.targetsize-16_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-24.png">
+      <PackagePath>Square44x44Logo.targetsize-24.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-256.png">
+      <PackagePath>Square44x44Logo.targetsize-256.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-256_altform-unplated.png">
+      <PackagePath>Square44x44Logo.targetsize-256_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-32.png">
+      <PackagePath>Square44x44Logo.targetsize-32.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-32_altform-unplated.png">
+      <PackagePath>Square44x44Logo.targetsize-32_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-48.png">
+      <PackagePath>Square44x44Logo.targetsize-48.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square44x44Logo.targetsize-48_altform-unplated.png">
+      <PackagePath>Square44x44Logo.targetsize-48_altform-unplated.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square71x71Logo.png">
+      <PackagePath>Square71x71Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square71x71Logo.scale-100.png">
+      <PackagePath>Square71x71Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square71x71Logo.scale-125.png">
+      <PackagePath>Square71x71Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square71x71Logo.scale-150.png">
+      <PackagePath>Square71x71Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square71x71Logo.scale-200.png">
+      <PackagePath>Square71x71Logo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Square71x71Logo.scale-400.png">
+      <PackagePath>Square71x71Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\StoreLogo.png">
+      <PackagePath>StoreLogo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\StoreLogo.scale-125.png">
+      <PackagePath>StoreLogo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\StoreLogo.scale-150.png">
+      <PackagePath>StoreLogo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\StoreLogo.scale-200.png">
+      <PackagePath>StoreLogo.scale-200.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\StoreLogo.scale-400.png">
+      <PackagePath>StoreLogo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Wide310x150Logo.png">
+      <PackagePath>Wide310x150Logo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Wide310x150Logo.scale-100.png">
+      <PackagePath>Wide310x150Logo.scale-100.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Wide310x150Logo.scale-125.png">
+      <PackagePath>Wide310x150Logo.scale-125.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Wide310x150Logo.scale-150.png">
+      <PackagePath>Wide310x150Logo.scale-150.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\Wide310x150Logo.scale-400.png">
+      <PackagePath>Wide310x150Logo.scale-400.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.17763.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\LarkoMultiplyUWP\bin\x64\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\bin\Release\WpfApp5.exe">
+      <PackagePath>LarkoMultiply\WpfApp5.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\vince\source\repos\LarkoMultiply\WpfApp5\bin\Release\WpfApp5.exe.config">
+      <PackagePath>LarkoMultiply\WpfApp5.exe.config</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
